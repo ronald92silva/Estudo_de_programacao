@@ -1,4 +1,4 @@
-num = int(input("Digite um número: "))
+num = int(input("Digite um número inteiro: "))
 
 print(f'O antecessor desse números é, {num -1} e o sucessor {num +1}.')
 
